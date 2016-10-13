@@ -159,7 +159,7 @@ MenuDefinition mainMenuDef =
 	.menuEntries = 
 	{
 		{"Quit", "Return to adventure", PopMenu},
-		{"Items/Act", "Items Owned", ShowMainItemMenu},
+		{"Inv.", "Items Owned", ShowMainItemMenu},
 		{"Stat", "Character advancement", ShowProgressMenu},
 		{"Power", "Character Stats", ShowStatMenu},
 		{"Options", "Open the options menu", ShowOptionsMenu},
