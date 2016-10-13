@@ -51,7 +51,7 @@ MenuDefinition testMenuDef =
 		{"Quit", "", PopMenu},
 		{"Random", "", ForceEvent},
 		{"NewFloor", "", ForceNewFloor},
-		{"Item", "", ForceItemGain},
+		{"Act/Item", "", ForceItemGain},
 		{"Battle", "", ForceBattle},
 		{"Shop", "", ForceShop},
 	},
@@ -80,7 +80,7 @@ MenuDefinition testMenu2Def =
 	.menuEntries = 
 	{
 		{"Quit", "", PopMenu},
-		{"Dragon", "", ForceDragonSetup},
+		{"Boss", "", ForceDragonSetup},
 	},
 	.mainImageId = -1
 };
@@ -159,9 +159,9 @@ MenuDefinition mainMenuDef =
 	.menuEntries = 
 	{
 		{"Quit", "Return to adventure", PopMenu},
-		{"Items", "Items Owned", ShowMainItemMenu},
-		{"Progress", "Character advancement", ShowProgressMenu},
-		{"Stats", "Character Stats", ShowStatMenu},
+		{"Items/Act", "Items Owned", ShowMainItemMenu},
+		{"Stat", "Character advancement", ShowProgressMenu},
+		{"Power", "Character Stats", ShowStatMenu},
 		{"Options", "Open the options menu", ShowOptionsMenu},
 #if ALLOW_TEST_MENU
 		{"Info", "Stats about the app", ShowInfoMenu},

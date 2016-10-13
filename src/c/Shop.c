@@ -76,11 +76,11 @@ MenuDefinition shopItemMenuDef =
 	.menuEntries = 
 	{
 		{"Quit", "Return to shop menu", PopMenu},
-		{"10", "Buy Potion", BuyPotion},
-		{"100", "Buy Elixir", BuyElixir},
-		{"20", "Buy Bomb", BuyBomb},
-		{"20", "Buy Icicle", BuyIcicle},
-		{"20", "Buy Spark", BuySpark},
+		{"10", "Buy LHero", BuyPotion},
+		{"100", "Buy ButtsPie", BuyElixir},
+		{"20", "Buy Talk", BuyBomb},
+		{"20", "Buy Flirt", BuyIcicle},
+		{"20", "Buy Be Nice", BuySpark},
 	},
 	.appear = ShopItemMenuAppear,
 	.mainImageId = -1

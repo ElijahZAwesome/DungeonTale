@@ -13,7 +13,7 @@ int GetMostRecentMonster(void)
 	
 MonsterDef Rat = 
 {
-	.name = "Rat",
+	.name = "Froggit",
 	.imageId = RESOURCE_ID_IMAGE_RAT,
 	.imageBWId = RESOURCE_ID_IMAGE_RAT_OLD,
 	.extraFireDefenseMultiplier = 100,

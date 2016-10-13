@@ -52,6 +52,7 @@
                 {
                     "file": "images/shop.png",
                     "name": "IMAGE_SHOP",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
