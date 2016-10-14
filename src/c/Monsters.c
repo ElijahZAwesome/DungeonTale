@@ -45,7 +45,7 @@ MonsterDef Goblin =
 
 MonsterDef Wizard = 
 {
-	.name = "Wizard",
+	.name = "Madjick",
 	.imageId = RESOURCE_ID_IMAGE_WIZARD,
 	.imageBWId = RESOURCE_ID_IMAGE_WIZARD_OLD,
 	.extraFireDefenseMultiplier = 100,
@@ -61,7 +61,7 @@ MonsterDef Wizard =
 
 MonsterDef Zombie = 
 {
-	.name = "Zombie",
+	.name = "Aaron",
 	.imageId = RESOURCE_ID_IMAGE_ZOMBIE,
 	.imageBWId = RESOURCE_ID_IMAGE_ZOMBIE_OLD,
 	.extraFireDefenseMultiplier = 300,
@@ -77,7 +77,7 @@ MonsterDef Zombie =
 
 MonsterDef Turtle = 
 {
-	.name = "Turtle",
+	.name = "Final Froggit",
 	.imageId = RESOURCE_ID_IMAGE_TURTLE,
 	.imageBWId = RESOURCE_ID_IMAGE_TURTLE_OLD,
 	.extraFireDefenseMultiplier = 100,
@@ -93,7 +93,7 @@ MonsterDef Turtle =
 
 MonsterDef Lich = 
 {
-	.name = "Lich",
+	.name = "Whimsalot",
 	.imageId = RESOURCE_ID_IMAGE_LICH,
 	.imageBWId = RESOURCE_ID_IMAGE_LICH_OLD,
 	.extraFireDefenseMultiplier = 100,
