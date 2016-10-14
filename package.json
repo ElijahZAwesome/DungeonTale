@@ -30,6 +30,7 @@
                 {
                     "file": "images/wizard.png",
                     "name": "IMAGE_WIZARD",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
