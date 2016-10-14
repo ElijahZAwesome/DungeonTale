@@ -29,7 +29,7 @@ MonsterDef Rat =
 
 MonsterDef Goblin = 
 {
-	.name = "Goblin",
+	.name = "Whimsun",
 	.imageId = RESOURCE_ID_IMAGE_GOBLIN,
 	.imageBWId = RESOURCE_ID_IMAGE_GOBLIN_OLD,
 	.extraFireDefenseMultiplier = 100,
@@ -109,7 +109,7 @@ MonsterDef Lich =
 
 MonsterDef Dragon = 
 {
-	.name = "Dragon",
+	.name = "Sans",
 	.imageId = RESOURCE_ID_IMAGE_DRAGON,
 	.imageBWId = RESOURCE_ID_IMAGE_DRAGON_OLD,
 	.extraFireDefenseMultiplier = 100,
