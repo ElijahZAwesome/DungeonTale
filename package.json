@@ -91,6 +91,7 @@
                 {
                     "file": "images/newfloor.png",
                     "name": "IMAGE_NEWFLOOR",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -133,6 +134,7 @@
                 {
                     "file": "images/dungeonstraight.png",
                     "name": "IMAGE_DUNGEONSTRAIGHT",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -144,6 +146,7 @@
                 {
                     "file": "images/dungeonright.png",
                     "name": "IMAGE_DUNGEONRIGHT",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -155,6 +158,7 @@
                 {
                     "file": "images/dungeonleft.png",
                     "name": "IMAGE_DUNGEONLEFT",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -166,6 +170,7 @@
                 {
                     "file": "images/dungeondeadend.png",
                     "name": "IMAGE_DUNGEONDEADEND",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -189,6 +194,7 @@
                 {
                     "file": "images/background.png",
                     "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
@@ -211,5 +217,5 @@
             "watchface": false
         }
     },
-    "version": "3.6.0"
+    "version": "4.1.0"
 }

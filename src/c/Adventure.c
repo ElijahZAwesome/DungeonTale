@@ -43,7 +43,7 @@ MenuDefinition adventureMenuDef =
 {
 	.menuEntries = 
 	{
-		{"Main", "Open the main menu", ShowMainMenu},
+		{"Menu", "Open the main menu", ShowMainMenu},
 #if ALLOW_TEST_MENU
 		{NULL, NULL, NULL},
 		{NULL, NULL, NULL},
@@ -111,7 +111,7 @@ void AdventureWindowInit(Window *window)
 
 void AdventureWindowAppear(Window *window)
 {
-	INFO_LOG("Back to the adventure.");
+	INFO_LOG("Back to the underground.");
 	DEBUG_LOG("Adventure appear floor %d",GetCurrentFloor());
 	MenuAppear(window);
 	ShowMainWindowRow(0, "Floor", UpdateFloorText());

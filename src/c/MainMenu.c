@@ -80,7 +80,7 @@ MenuDefinition testMenu2Def =
 	.menuEntries = 
 	{
 		{"Quit", "", PopMenu},
-		{"Boss", "", ForceDragonSetup},
+		{"Sans", "", ForceDragonSetup},
 	},
 	.mainImageId = -1
 };
@@ -160,8 +160,8 @@ MenuDefinition mainMenuDef =
 	{
 		{"Quit", "Return to adventure", PopMenu},
 		{"Inv.", "Items Owned", ShowMainItemMenu},
-		{"Stat", "Character advancement", ShowProgressMenu},
-		{"Power", "Character Stats", ShowStatMenu},
+		{"Advancment", "Character advancement", ShowProgressMenu},
+		{"Stat", "Character Stats", ShowStatMenu},
 		{"Options", "Open the options menu", ShowOptionsMenu},
 #if ALLOW_TEST_MENU
 		{"Info", "Stats about the app", ShowInfoMenu},
