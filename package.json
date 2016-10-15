@@ -11,44 +11,134 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/zombie_old.png",
-                    "name": "IMAGE_ZOMBIE_OLD",
+                    "file": "images/newfloor_P.png",
+                    "name": "IMAGE_NEWFLOOR_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/zombie.png",
-                    "name": "IMAGE_ZOMBIE",
+                    "file": "images/background_P.png",
+                    "name": "IMAGE_BACKGROUND_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/wizard_old.png",
-                    "name": "IMAGE_WIZARD_OLD",
+                    "file": "images/Sans.png",
+                    "name": "IMAGE_DRAGON",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/wizard.png",
-                    "name": "IMAGE_WIZARD",
+                    "file": "images/Sans_P.png",
+                    "name": "IMAGE_DRAGON_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/turtle_old.png",
+                    "file": "images/dungeondeadend_P.png",
+                    "name": "IMAGE_DUNGEONDEADEND_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/dungeonleft_P.png",
+                    "name": "IMAGE_DUNGEONLEFT_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/dungeonright_P.png",
+                    "name": "IMAGE_DUNGEONRIGHT_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/dungeonstraight_P.png",
+                    "name": "IMAGE_DUNGEONSTRAIGHT_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Whimsun_P.png",
+                    "name": "IMAGE_GOBLIN_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Whimsun.png",
+                    "name": "IMAGE_GOBLIN",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Whimsalot_P.png",
+                    "name": "IMAGE_LICH_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Whimsalot.png",
+                    "name": "IMAGE_LICH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Froggit_P.png",
+                    "name": "IMAGE_RAT_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Froggit.png",
+                    "name": "IMAGE_RAT",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/rest_P.png",
+                    "name": "IMAGE_REST_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/shop_P.png",
+                    "name": "IMAGE_SHOP_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Final_Froggit_P.png",
                     "name": "IMAGE_TURTLE_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/turtle.png",
+                    "file": "images/Aaron_P.png",
+                    "name": "IMAGE_ZOMBIE_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Madjick_P.png",
+                    "name": "IMAGE_WIZARD_OLD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Final_Froggit.png",
                     "name": "IMAGE_TURTLE",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/shop_old",
-                    "name": "IMAGE_SHOP_OLD",
+                    "file": "images/Madjick.png",
+                    "name": "IMAGE_WIZARD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/Aaron.png",
+                    "name": "IMAGE_ZOMBIE",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -59,50 +149,14 @@
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/rest_old.png",
-                    "name": "IMAGE_REST_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/rest.png",
                     "name": "IMAGE_REST",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/rat.png",
-                    "name": "IMAGE_RAT",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/rat_old.png",
-                    "name": "IMAGE_RAT_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/newfloor_old.png",
-                    "name": "IMAGE_NEWFLOOR_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/newfloor.png",
                     "name": "IMAGE_NEWFLOOR",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/lich_old.png",
-                    "name": "IMAGE_LICH_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/lich.png",
-                    "name": "IMAGE_LICH",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -114,32 +168,8 @@
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/goblin_old.png",
-                    "name": "IMAGE_GOBLIN_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/goblin.png",
-                    "name": "IMAGE_GOBLIN",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/dungeonstraight_old.png",
-                    "name": "IMAGE_DUNGEONSTRAIGHT_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/dungeonstraight.png",
                     "name": "IMAGE_DUNGEONSTRAIGHT",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/dungeonright_old.png",
-                    "name": "IMAGE_DUNGEONRIGHT_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -150,38 +180,14 @@
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/dungeonleft_old.png",
-                    "name": "IMAGE_DUNGEONLEFT_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/dungeonleft.png",
                     "name": "IMAGE_DUNGEONLEFT",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/dungeondeadend_old.png",
-                    "name": "IMAGE_DUNGEONDEADEND_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
                     "file": "images/dungeondeadend.png",
                     "name": "IMAGE_DUNGEONDEADEND",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/dragon_old.png",
-                    "name": "IMAGE_DRAGON_OLD",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/dragon.png",
-                    "name": "IMAGE_DRAGON",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -194,12 +200,6 @@
                 {
                     "file": "images/background.png",
                     "name": "IMAGE_BACKGROUND",
-                    "targetPlatforms": null,
-                    "type": "bitmap"
-                },
-                {
-                    "file": "images/background_old.png",
-                    "name": "IMAGE_BACKGROUND_OLD",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 }
@@ -217,5 +217,5 @@
             "watchface": false
         }
     },
-    "version": "4.1.0"
+    "version": "4.3.0"
 }

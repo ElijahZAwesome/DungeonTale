@@ -18,7 +18,7 @@ void DrawOptionsMenu(void)
 	ShowMainWindowRow(i++, "Options", "");
 	ShowMainWindowRow(i++, "Vibration", vibration ? "On" : "Off");
 	ShowMainWindowRow(i++, "Fast Mode", useWorkerApp ? "-" : fastMode ? "On" : "Off");
-	ShowMainWindowRow(i++, "Old Graphics", useOldAssets ? "On" : "Off");
+	ShowMainWindowRow(i++, "Run", useOldAssets ? "Paci" : "Geno");
 #if ALLOW_WORKER_APP
 	ShowMainWindowRow(i++, "Background", useWorkerApp ? "On" : "Off");
 	ShowMainWindowRow(i++, "Launch", !useWorkerApp ? "-" : workerCanLaunch ? "On" : "Off");
